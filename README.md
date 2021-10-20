@@ -1,6 +1,6 @@
 # udacityproject
 
-ntroduction
+
 In this project, Coded Packer template in the packer folder and a Terraform template in the terraform folder . The templates are customizable by changing the values and adding removing configuration as needed. 
 
 the vaidavle tf file has the values that can used to change number of VMs and other properties.
