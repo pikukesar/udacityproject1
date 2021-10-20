@@ -1,9 +1,6 @@
 # udacityproject
 
-
-In this project, Coded Packer template in the packer folder and a Terraform template in the terraform folder . The templates are customizable by changing the values and adding removing configuration as needed. 
-
-the vaidavle tf file has the values that can used to change number of VMs and other properties.
+In this project, Coded Packer template in the packer folder and a Terraform template in the terraform folder . The templates are customizable by changing the values and adding removing configuration as needed inthe variable.tf file has the values that can used to change number of VMs and other properties.
 Getting Started
 Clone this repository
 
@@ -37,7 +34,7 @@ Create managed disks for your virtual machines
 Ensure declarative configuration is possible by using variable.tf file
 Deploy all Azure resources
 
-Initializa the terraform using the command 
+Terraform steps
 terraform init
 terraform validate
 terraform fmt
