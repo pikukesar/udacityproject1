@@ -4,8 +4,8 @@
 
     "client_id": "0ee0b5e2-c260-408f-953d-2cd297e2b473",
     "client_secret": "BosjzcKk~VvW_C3dPxb7p8AaxZ4hqiPBS5",
-    "tenant_id": "d832c18f-1059-4160-b543-b20930ddb0e3",
-    "subscription_id": "522b5d75-2fbe-4fb5-b2d5-6c15a215feca",
+    "tenant_id": "d832c18f-10-b20930ddb0e3",
+    "subscription_id": "5a",
 
     "managed_image_resource_group_name": "myResourceGroup",
     "managed_image_name": "myPackerImagePK",
